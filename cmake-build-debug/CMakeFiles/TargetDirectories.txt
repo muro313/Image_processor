@@ -1,0 +1,3 @@
+/home/murad/CLionProjects/image/cmake-build-debug/CMakeFiles/image.dir
+/home/murad/CLionProjects/image/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/murad/CLionProjects/image/cmake-build-debug/CMakeFiles/rebuild_cache.dir

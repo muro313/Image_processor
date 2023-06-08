@@ -1,0 +1,14 @@
+# ninja log v5
+979	1301	1679787113415233554	CMakeFiles/image.dir/lib/ColorPanel/ColorPanel.cpp.o	4010f50031447ae2
+986	1836	1679787113947231514	CMakeFiles/image.dir/lib/Parser/parser.cpp.o	89f4713c151c5b5f
+3	979	1679787113091234798	CMakeFiles/image.dir/lib/in_out/Read.cpp.o	a35aff08709cd4e0
+972	1533	1679787809546843344	CMakeFiles/image.dir/lib/filters/EdgeDetection.cpp.o	d8511dffd76b1fa9
+1	701	1679787808714852566	CMakeFiles/image.dir/lib/filters/Crop.cpp.o	5c15ea60b47b56b3
+986	1468	1679787113583232910	CMakeFiles/image.dir/lib/in_out/Write.cpp.o	3f20f36969a1e15a
+701	1368	1679787809378845206	CMakeFiles/image.dir/lib/filters/Sharpening.cpp.o	f2e8fc47d7f7d492
+1	971	1679787808982849594	CMakeFiles/image.dir/lib/filters/facroty.cpp.o	6d4ebcf7c801fac3
+1533	1610	1679787809622842502	image	af38b08df784c1a2
+3	986	1679787113099234767	CMakeFiles/image.dir/lib/bmp/FILE_INFO.cpp.o	4d064d911e2cfc93
+626	1101	1679787809114848131	CMakeFiles/image.dir/lib/filters/Negative.cpp.o	eec928c153930ccb
+1	626	1679787808638853408	CMakeFiles/image.dir/lib/filters/Grayscale.cpp.o	2403e83eb1621198
+2	986	1679787113099234767	CMakeFiles/image.dir/main.cpp.o	78f5f99a17396a8
